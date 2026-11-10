@@ -1,0 +1,21 @@
+# Bytecode and artifacts
+bin/
+*.class
+*.jar
+*.war
+*.ear
+
+# IDE and Editor directories
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
+
+# OS specific files
+Thumbs.db
+.DS_Store
+
+# Logs
+*.log

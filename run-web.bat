@@ -1,0 +1,3 @@
+@echo off
+echo Starting Campus Smart-Parking System Web Service on http://localhost:8080 ...
+java -cp bin parking.system.main.ParkingWebServer

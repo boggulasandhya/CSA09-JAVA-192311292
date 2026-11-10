@@ -1,0 +1,3 @@
+@echo off
+echo Running Campus Smart-Parking System Console Demo...
+java -cp bin parking.system.main.ParkingDemo
